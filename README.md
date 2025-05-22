@@ -113,7 +113,7 @@ Below is the UML sequence diagram for the Favoriting Service:
 ## 4. Mitigation Plan
 
 **4.a. Teammate**
-This Service was built for Jelena’s restaurant locator app. (but should also work with Haley’s restaurant locator app.
+This Service was built for Jelena’s restaurant locator app. (but should also work with Haley’s Chinese Flashcards app).
 
 **4.b. Current Status**
 Fully implemented and tested locally aside from dedicated commands to favorite, unfavorite, add, will be completed by **May 23, 2025** at the latest.
