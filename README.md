@@ -106,7 +106,7 @@ curl "http://localhost:3000/favorites?itemType=card"
 
 Below is the UML sequence diagram for the Favoriting Service:
 
-![UML Sequence Diagram for FavoritingService](docs/cs361A8.png)
+![UML Sequence Diagram for FavoritingService](assets/cs361A8.png)
 
 ---
 
