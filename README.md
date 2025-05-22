@@ -116,7 +116,8 @@ Below is the UML sequence diagram for the Favoriting Service:
 This Service was built for Jelena’s restaurant locator app. (but should also work with Haley’s restaurant locator app.
 
 **4.b. Current Status**
-Fully implemented and tested locally. The POST and GET endpoints behave as documented.
+Fully implemented and tested locally aside from dedicated commands to favorite, unfavorite, add, will be completed by **May 23, 2025** at the latest.
+The POST and GET endpoints behave as documented.
 
 **4.c. Known Issues & Timeline**
 No known issues at this time. If a bug arises, it will be addressed by **May 28, 2025**.
