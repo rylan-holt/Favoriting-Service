@@ -137,7 +137,7 @@ No known issues at this time. If a bug arises, it will be addressed by **May 28,
 
 * Verify you are in the correct folder and have run `npm install`.
 * Ensure nothing else is running on port 3000.
-* If the problem persists, contact me via Slack or email ([holtry@oregonstate.edu](mailto:holtry@oregonstate.edu)). I am available M–F, 2 PM – 8 PM PDT.
+* If the problem persists, contact me via Canvas or email ([holtry@oregonstate.edu](mailto:holtry@oregonstate.edu)). I am available M–F, 2 PM – 8 PM PDT.
 
 **4.f. Deadline for Reporting Issues**
 Please notify me by **May 25, 2025 at 12:00 PM PT** so I can help before your integration deadline.
